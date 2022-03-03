@@ -1,0 +1,8 @@
+package gHUB;
+
+public class holaMartin {
+    public static void main(String[] args) {
+
+    	System.out.println("hola Martin, que tal estas ? ");
+}
+} 
